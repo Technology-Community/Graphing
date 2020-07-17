@@ -1,0 +1,13 @@
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\bin\Debug\VietGraph.exe
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\bin\Debug\VietGraph.pdb
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.csprojAssemblyReference.cache
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.Main.resources
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.Graph.resources
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.Properties.Resources.resources
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.TacGia.resources
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.ThemBotBieuThuc.resources
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.ThongTinDoThi.resources
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.csproj.GenerateResource.cache
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.csproj.CoreCompileInputs.cache
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.exe
+E:\Code\C#\Project\Phần mềm vẽ đồ thị C#\VietGraph 1.2 - Source Code\GraphPlotter\obj\Debug\VietGraph.pdb
